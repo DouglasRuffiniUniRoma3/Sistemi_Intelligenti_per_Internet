@@ -1,0 +1,7 @@
+concept_x,concept_y,pearson_r,pair_semantic_gap
+electric,lightning,0.3574,0.6426
+electric,nuclear,0.3706,0.6294
+electric,temporal,0.3846,0.6154
+lightning,nuclear,0.321,0.679
+lightning,temporal,0.2733,0.7267
+nuclear,temporal,0.3225,0.6775

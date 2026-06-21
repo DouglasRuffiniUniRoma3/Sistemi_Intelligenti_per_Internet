@@ -1,0 +1,43 @@
+{
+  "semantic_gap_score": 0.6618,
+  "semantic_convergence_score": 0.3382,
+  "interpretation": "0 = convergenza semantica massima, 1 = vuoto semantico massimo",
+  "pairs": [
+    {
+      "concept_x": "electric",
+      "concept_y": "lightning",
+      "pearson_r": 0.3574,
+      "pair_semantic_gap": 0.6426
+    },
+    {
+      "concept_x": "electric",
+      "concept_y": "nuclear",
+      "pearson_r": 0.3706,
+      "pair_semantic_gap": 0.6294
+    },
+    {
+      "concept_x": "electric",
+      "concept_y": "temporal",
+      "pearson_r": 0.3846,
+      "pair_semantic_gap": 0.6154
+    },
+    {
+      "concept_x": "lightning",
+      "concept_y": "nuclear",
+      "pearson_r": 0.321,
+      "pair_semantic_gap": 0.679
+    },
+    {
+      "concept_x": "lightning",
+      "concept_y": "temporal",
+      "pearson_r": 0.2733,
+      "pair_semantic_gap": 0.7267
+    },
+    {
+      "concept_x": "nuclear",
+      "concept_y": "temporal",
+      "pearson_r": 0.3225,
+      "pair_semantic_gap": 0.6775
+    }
+  ]
+}

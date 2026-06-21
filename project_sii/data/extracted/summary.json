@@ -1,0 +1,64 @@
+{
+  "n_files": 783,
+  "n_suspect_values_global": 138625,
+  "numeric_mean": 207.43,
+  "numeric_median": 30,
+  "global_term_counts": {
+    "electric": 6912,
+    "lightning": 2375,
+    "nuclear": 9827,
+    "temporal": 2501
+  },
+  "top_dense_files": [
+    {
+      "file": "campione_4_atmospheric_plasma_discharge\\zenodo_8037239_gamma.json",
+      "n_numeric": 33041,
+      "metrics": {
+        "electric": 0,
+        "lightning": 0,
+        "nuclear": 0,
+        "temporal": 0
+      }
+    },
+    {
+      "file": "campione_4_atmospheric_plasma_discharge\\zenodo_8037239_neutron.json",
+      "n_numeric": 33041,
+      "metrics": {
+        "electric": 0,
+        "lightning": 0,
+        "nuclear": 0,
+        "temporal": 0
+      }
+    },
+    {
+      "file": "campione_1_lightning_neutron\\arxiv_1812.07831.json",
+      "n_numeric": 4283,
+      "metrics": {
+        "electric": 104,
+        "lightning": 0,
+        "nuclear": 176,
+        "temporal": 151
+      }
+    },
+    {
+      "file": "campione_2_tgf\\arxiv_1812.07831.json",
+      "n_numeric": 4283,
+      "metrics": {
+        "electric": 104,
+        "lightning": 0,
+        "nuclear": 176,
+        "temporal": 151
+      }
+    },
+    {
+      "file": "campione_3_neutron_burst_thunderstorm\\arxiv_1812.07831.json",
+      "n_numeric": 4283,
+      "metrics": {
+        "electric": 104,
+        "lightning": 0,
+        "nuclear": 176,
+        "temporal": 151
+      }
+    }
+  ]
+}
